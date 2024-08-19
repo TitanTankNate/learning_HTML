@@ -1,0 +1,32 @@
+/* ELEMENTS */
+
+.title-bar {
+    background-color: #8b8c89;
+}
+
+/* HEADERS */
+.header {
+    font-family: "Verdana", "Helvetica", sans-serif;
+    font-weight: 500
+}
+
+
+.page-title {
+    font-weight: 800;
+    color: #E7ECEF;
+}
+
+h1,
+h2{
+    font-weight: 650
+}
+
+h3 {
+    font-weight: 500;
+}
+
+
+/* BODY TEXT */
+body {
+    font-family: "Verdana", "Helvetica", sans-serif;
+}
